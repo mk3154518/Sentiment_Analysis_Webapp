@@ -3,7 +3,7 @@
 
 A Streamlit web application that performs end-to-end sentiment analysis on text data. Upload a CSV of reviews, and the app will automatically preprocess the data, train multiple machine learning models (Logistic Regression, SVM, etc.), and select the best one to analyze the sentiment.
 
-### live demo link: [https://sentimentanalysiswebapp-gxkfw6jx3y6psz7dengydr.streamlit.app/]
+### live demo link: [Click Here for the Live Demo](https://sentimentanalysiswebapp-gxkfw6jx3y6psz7dengydr.streamlit.app/)
 
 ---
 
